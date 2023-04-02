@@ -43,6 +43,7 @@ logs
 .env.test
 .env.production
 .env
+.env.example
 
 # turbo
 .turbo
@@ -60,3 +61,5 @@ logs
 projects/**/*.js
 projects/**/*.d.ts
 projects/**/output
+.env.example
+.env.example
