@@ -44,6 +44,7 @@ logs
 .env.production
 .env
 .env.example
+.env.development
 
 # turbo
 .turbo

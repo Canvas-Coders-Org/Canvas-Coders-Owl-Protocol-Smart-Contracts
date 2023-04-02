@@ -1,0 +1,11 @@
+{
+    "rootContract": {
+      "tokenSymbol": "CC",
+      "tokenIdStart": 1,
+      "cfg": {
+        "jsonSchemaEndpoint": "https://leovigna.mypinata.cloud/ipfs",
+        "sdkApiEndpoint": "https://metadata.owlprotocol.xyz/metadata/getMetadata",
+        "jsonSchemaIpfs": "QmXrpPT5KveNCcMHXdZiknnGiLbNveoccpD7FmagxgtQbj"
+      }
+    }
+  }
